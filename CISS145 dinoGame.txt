@@ -1,0 +1,24 @@
+CISS 145 Introduction to Python Programming
+Final Project: Dinosaur Game
+Yijun Wu
+Dec. 14, 2022
+
+The description of dinosaur game
+
+The game starts when the user presses the space button. The little dinosaur will keep on running when there are cacti that appear randomly. The user need to control the dinosaur to avoid the cacti. Once started, the dinosaur will run infinitely until it hit a cactus. The scores will be calculated by the time. The game only has one level, but turns more difficult as time goes by. The difficulty of the game increase as more cacti appear.
+
+
+Python version: Python 3.9.10
+
+
+Operating system: Mac OS
+
+
+Command in the game:
+
+I used class, function, if statement, while loop, for loop, list, random module and some other command in the game.
+
+
+How to play
+
+At first, the user press the Enter key to start the game, then use the Space key to make the dinosaur jump to avoid the cacti. If the dinosaur run into a cactus, the game ends. If the user want to play again, press 1, the game will return to the welcome screen.
